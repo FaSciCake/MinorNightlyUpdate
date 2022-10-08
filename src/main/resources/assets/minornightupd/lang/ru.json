@@ -1,0 +1,16 @@
+{
+  "itemGroup.minornightupd": "Minor Nightly Update",
+  "item.minornightupd.ruby": "Рубин",
+  "item.minornightupd.lumin": "Люмин",
+  "item.minornightupd.ruby_ore": "Рубиновая руда",
+  "item.minornightupd.lumin_ore": "Люминовая руда",
+
+  "item.minornightupd.omelet": "Омлет",
+  "item.minornightupd.omelatte": "Омлатте",
+
+  "item.minornightupd.copper_sword": "Медный меч",
+  "item.minornightupd.copper_pickaxe": "Медная кирка",
+  "item.minornightupd.copper_shovel": "Медная лопата",
+  "item.minornightupd.copper_axe": "Медный топор",
+  "item.minornightupd.copper_hoe": "Медная мотыга"
+}

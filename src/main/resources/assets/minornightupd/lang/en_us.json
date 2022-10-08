@@ -1,0 +1,16 @@
+{
+  "itemGroup.minornightupd": "Minor Nightly Update",
+  "item.minornightupd.ruby": "Ruby",
+  "item.minornightupd.lumin": "Lumin",
+  "item.minornightupd.ruby_ore": "Ruby ore",
+  "item.minornightupd.lumin_ore": "Lumin ore",
+
+  "item.minornightupd.omelet": "Omelet",
+  "item.minornightupd.omelatte": "Omelatte",
+
+  "item.minornightupd.copper_sword": "Copper sword",
+  "item.minornightupd.copper_pickaxe": "Copper pickaxe",
+  "item.minornightupd.copper_shovel": "Copper shovel",
+  "item.minornightupd.copper_axe": "Copper axe",
+  "item.minornightupd.copper_hoe": "Copper hoe"
+}
